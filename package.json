@@ -1,0 +1,11 @@
+{
+  "name": "node-thanksgivingday",
+  "version": "1.0.0",
+  "description": "Node.js Deep-Study during the Thanksgiving Day",
+  "main": "index.js",
+  "author": "zini",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
