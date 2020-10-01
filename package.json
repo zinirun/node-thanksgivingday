@@ -6,6 +6,7 @@
   "author": "zini",
   "license": "MIT",
   "dependencies": {
+    "co": "^4.6.0",
     "nodemon": "^2.0.4"
   }
 }

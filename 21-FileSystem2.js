@@ -14,6 +14,7 @@ const writeAndRead = async (data = '') => {
         return;
     } catch (e) {
         console.error(e);
+        return;
     }
 };
 
